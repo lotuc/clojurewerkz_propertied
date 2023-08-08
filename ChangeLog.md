@@ -1,3 +1,12 @@
+## Changes Between 1.3.0 and 1.4.x (rev count)
+
+Built by [tools.build](https://github.com/clojure/tools.build).
+
+### Dependencies
+
+1. Updates clojurewerkz/support from "1.1.0" to org.lotuc/clojurewerkz_support
+   "1.6.210"
+
 ## Changes Between 1.2.0 and 1.3.0
 
 ### Unicode Encoding for Files
